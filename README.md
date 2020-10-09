@@ -1,14 +1,22 @@
 # http-status-code-as-emoji
-- 200 Thumbs up
-- 201 Squared new
-- 301 Right pointing backhand index
-- 400 Thumbs down
-- 401 Lock
-- 402 Money bag
-- 403 No entry sign
-- 404 Man shrugging
-- 408 Hourglass
-- 410 Dash symbol
-- 418 Teacup without handle
-- 500 Pile of poo
+
+- 200 👍
+- 201 🆕
+- 218 🔥
+- 301 👉
+- 400 👎
+- 401 🔒
+- 402 💰
+- 422 😕
+- 403 🚫
+- 404 🤷‍♂️
+- 408 ⌛
+- 410 💨
+- 418 🍵
+- 500 💩
+- 502 🚪
+- 503 💥
+- 504 ⏳
+
+idea source: [https://twitter.com/NlognHQ/status/1314443449244946436](https://twitter.com/NlognHQ/status/1314443449244946436)
 
